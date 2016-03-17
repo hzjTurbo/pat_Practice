@@ -15,4 +15,5 @@ int main(){
 		else j++;
 	}
 	cout << endl;
+	return 0;
 }
